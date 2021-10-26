@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+BDAY;VALUE=DATE:2001-10-10
+NOTE: Hi mình là Minh Béo !!
+URL;CHARSET=UTF-8:
+PHOTO;TYPE=JPEG;VALUE=URL:https://nhatminhit.github.io/iconcanhan.png
+FN;CHARSET=UTF-8:Phạm Nhật Minh 
+N;CHARSET=UTF-8:;Phạm Nhật Minh;;;
+ORG;CHARSET=UTF-8:Phạm Nhật Minhr;
+TEL;TYPE=CELL:0867127609
+Email;TYPE=Email:minhhblonely2k1@gmail.com
+END:VCARD
